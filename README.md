@@ -10,7 +10,8 @@ No me hago responsable del mal uso que le puedan dar a este phishin
 
 ##### Usage:
 ```
-git clon
+git clone https://github.com/cracker-vs-cuba1/nauta-hogar-c.u.git
 cd ruslan.sh
 chmod +x ruslan.sh
 ./ruslan.sh
+```
